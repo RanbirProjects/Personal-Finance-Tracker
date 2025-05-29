@@ -1,8 +1,18 @@
-# Expense Tracker
+ Expense Tracker
 
 A full-stack expense tracking application built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
+Website Screen recorder Demo
+https://github.com/user-attachments/assets/53fb8ddb-6b14-4d43-bc74-dcb1c6159907
+Login page 
+![19701EF8-898F-4F17-8E67-143723D45EC9_1_105_c](https://github.com/user-attachments/assets/ef87c287-472a-4996-95cf-c760ee684794)
 
-## Features
+Registration page
+
+![9299FEF9-7AD1-4FE4-9F84-9D4B09DA9728_1_105_c](https://github.com/user-attachments/assets/88aae386-3d00-46e2-860c-55ad25488cff)
+
+
+
+ Features
 
 - User authentication (register/login)
 - Add, edit, and delete expenses
@@ -12,13 +22,13 @@ A full-stack expense tracking application built with the MERN stack (MongoDB, Ex
 - Visual charts for expense analysis
 - Responsive design
 
-## Prerequisites
+ Prerequisites
 
 - Node.js (v14 or higher)
 - MongoDB
 - npm or yarn
 
-## Setup
+ Setup
 
 1. Clone the repository:
 ```bash
@@ -45,7 +55,7 @@ MONGODB_URI=mongodb://localhost:27017/expense-tracker
 JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
 ```
 
-## Running the Application
+Running the Application
 
 1. Start the backend server:
 ```bash
@@ -63,20 +73,19 @@ The application will be available at:
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:5000
 
-## API Endpoints
+API Endpoints
 
-### Authentication
+Authentication
 - POST /api/auth/register - Register a new user
 - POST /api/auth/login - Login user
 
-### Expenses
+ Expenses
 - GET /api/expenses - Get all expenses
 - POST /api/expenses - Create a new expense
 - PUT /api/expenses/:id - Update an expense
 - DELETE /api/expenses/:id - Delete an expense
 - GET /api/expenses/stats - Get expense statistics
-
-## Technologies Used
+ Technologies Used
 
 - Frontend:
   - React.js with TypeScript
@@ -91,7 +100,7 @@ The application will be available at:
   - JWT for authentication
   - bcryptjs for password hashing
 
-## Contributing
+Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -99,21 +108,19 @@ The application will be available at:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
+License
 
 This project is licensed under the MIT License.
 
-# Fitness-Tracker
-# Personal-Finance-Tracker
-# Finaince-Tracker-webiste
+Personal-Finance-Tracker
+ Finaince-Tracker-webiste
 
 A comprehensive personal finance tracking application built with modern web technologies.
 
-## Video Demonstration
+Video Demonstration
 
 https://github.com/RanbirProjects/Finaince-Tracker-webiste/assets/your-github-username/your-video-id
-
-## Features
+Features
 
 - User authentication (register/login)
 - Add, edit, and delete expenses
@@ -122,4 +129,4 @@ https://github.com/RanbirProjects/Finaince-Tracker-webiste/assets/your-github-us
 - Dashboard with expense statistics
 - Visual charts for expense analysis
 - Responsive design
-# Personal-Finance-Tracker
+ Personal-Finance-Tracker
