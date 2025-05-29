@@ -101,6 +101,25 @@ The application will be available at:
 
 ## License
 
-This project is licensed under the MIT License. # Fitness-Tracker
+This project is licensed under the MIT License.
+
+# Fitness-Tracker
 # Personal-Finance-Tracker
 # Finaince-Tracker-webiste
+
+A comprehensive personal finance tracking application built with modern web technologies.
+
+## Video Demonstration
+
+https://github.com/RanbirProjects/Finaince-Tracker-webiste/assets/your-github-username/your-video-id
+
+## Features
+
+- User authentication (register/login)
+- Add, edit, and delete expenses
+- Categorize expenses
+- View expense history
+- Dashboard with expense statistics
+- Visual charts for expense analysis
+- Responsive design
+# Personal-Finance-Tracker
