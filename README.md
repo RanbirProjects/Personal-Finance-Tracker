@@ -2,7 +2,7 @@
 
 A full-stack expense tracking application built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 Website Screen recorder Demo
-https://github.com/user-attachments/assets/53fb8ddb-6b14-4d43-bc74-dcb1c6159907
+[https://github.com/user-attachments/assets/53fb8ddb-6b14-4d43-bc74-dcb1c6159907](https://github.com/RanbirProjects/Personal-Finance-Tracker/issues/1#issue-3100988647)
 Login page 
 ![19701EF8-898F-4F17-8E67-143723D45EC9_1_105_c](https://github.com/user-attachments/assets/ef87c287-472a-4996-95cf-c760ee684794)
 
